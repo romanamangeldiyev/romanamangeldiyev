@@ -1,4 +1,4 @@
-Hi there, I'm Roman Amangeldiyev 👋
+<h1>Hi there, I'm Roman Amangeldiyev 👋<h1/>
 <br>🎓 Student at Bahçeşehir University<br>🚀 Currently working on my project<br>🧠 Learning AI and Machine Learning<br>💻 Skilled in Python, JavaScript, and C++<br>🤝 Looking to collaborate with AI engineers<br><br>Let's build something amazing together! Feel free to connect.
 
 
