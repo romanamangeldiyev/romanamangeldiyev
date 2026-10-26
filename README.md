@@ -1,18 +1,42 @@
-<h1>Hi there, I'm Roman Amangeldiyev 👋</h1>
-<br>🌐 Website: https://romanamangeldiyev.com/<br>🎓 Student at Bahçeşehir University<br>🚀 Currently working on my project<br>🧠 Learning AI and Machine Learning<br>💻 Skilled in Python, JavaScript, and C++<br>🤝 Looking to collaborate with AI Engineers<br><br>Let's build something amazing together! Feel free to connect.
+# Roman Amangeldiyev
 
+**AI product builder · startup founder · Computer Engineering student at Bahçeşehir University · Istanbul, Türkiye**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/romanamangeldiyev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roman-amangeldiyev) 
+I build AI-native products from problem framing to working systems, with hands-on work across agentic AI, retrieval-augmented generation, full-stack engineering, product management, and growth.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=romanamangeldiyev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=romanamangeldiyev&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=romanamangeldiyev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 🌐 **Website:** [romanamangeldiyev.com](https://romanamangeldiyev.com/)
+- 👤 **Canonical profile:** [romanamangeldiyev.com/profile.html](https://romanamangeldiyev.com/profile.html)
+- 𝕏 **X / Twitter:** [@romangeldiyev](https://x.com/romangeldiyev)
+- 💼 **LinkedIn:** [Roman Amangeldiyev](https://www.linkedin.com/in/roman-amangeldiyev/)
+- 📷 **Instagram:** [@romanamangeldiyev](https://www.instagram.com/romanamangeldiyev/)
+
+## What I work on
+
+- **AI product building:** agentic systems, RAG, structured decision systems, and AI-native workflows.
+- **Product & growth:** product discovery, experimentation, go-to-market, and zero-to-one execution.
+- **Engineering:** Python, FastAPI, JavaScript/React, databases, retrieval systems, and systems architecture.
+
+## Selected work
+
+- **hukukcy.com** — legal AI platform for Turkmenistan with grounded legal research and document workflows.
+- **Jev AI Experiment** — a structured decision-model experiment across 25 profiles.
+- **PlatoMind** — a product experiment for structured multi-stakeholder discussion around education.
+
+Project case studies: [romanamangeldiyev.com/projects.html](https://romanamangeldiyev.com/projects.html)
+
+## Recognition
+
+Two publicly listed academic honors from the **Turkmenistan Ministry of Education**:
+
+- **Sustainable Future** — February 2021
+- **Programming Contest** — March 2020
+
+Details: [romanamangeldiyev.com/awards.html](https://romanamangeldiyev.com/awards.html)
+
+## Core stack
+
+`Python` · `FastAPI` · `JavaScript` · `React` · `Next.js` · `PostgreSQL` · `Qdrant` · `LangGraph` · `C++`
 
 ---
-[![](https://visitcount.itsvg.in/api?id=romanamangeldiyev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+If you're looking for my X account, the official profile is **[@romangeldiyev](https://x.com/romangeldiyev)**.
